@@ -1,0 +1,14 @@
+﻿From: "Example Sender" <sender@example.com>
+To: recipient@example.com
+Subject: Test message for phish-detect
+Date: Tue, 16 Sep 2025 21:30:00 +0530
+Message-ID: <testmessage@example.com>
+Content-Type: text/plain; charset="utf-8"
+
+Hello,
+
+This is a test email for the phish-detect project.
+Visit https://example.com/test for more info.
+
+Regards,
+Example Sender

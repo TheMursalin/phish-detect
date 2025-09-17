@@ -1,0 +1,6 @@
+﻿{
+  "subject": "Urgent: Verify your account",
+  "body": "Dear user, please click this link http://phishy.example.com/login to verify.",
+  "to": "victim@example.com",
+  "urls": ["http://phishy.example.com/login"]
+}
